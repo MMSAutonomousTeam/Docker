@@ -1,2 +1,2 @@
 # learning_inside_team
-topics learned inside the team with the members 
+docker documentaion for better understanding 
